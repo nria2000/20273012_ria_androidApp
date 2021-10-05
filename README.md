@@ -19,3 +19,6 @@
 
 ## 5주차 과제
   <img width="" height="" src="./png/20273012_최나탈리아_5.png"></img>
+
+## 6주차 과제
+  <img width="" height="" src="./png/20273012_최나탈리아_6.png"></img>
