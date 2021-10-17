@@ -22,3 +22,6 @@
 
 ## 6주차 과제
   <img width="" height="" src="./png/20273012_최나탈리아_6.png"></img>
+
+## 7주차 과제
+  <img width="" height="" src="./png/20273012_최나탈리아_7.png"></img>
