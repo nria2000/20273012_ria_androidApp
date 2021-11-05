@@ -28,3 +28,6 @@
 
 ## 9주차 과제
   <img width="" height="" src="./png/20273012_최나탈리아_9.png"></img>
+
+## 10주차 과제
+  <img width="" height="" src="./png/20273012_최나탈리아_10.png"></img>
